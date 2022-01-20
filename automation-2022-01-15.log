@@ -1,0 +1,27 @@
+2022-01-15T18:49:37,170 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2022-01-15T18:49:37,519 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-dev.properties
+2022-01-15T18:49:37,548 [Test worker] INFO  (BaseTest.java:26) - Configuration exitosa.
+2022-01-15T18:50:06,063 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2022-01-15T18:50:13,399 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-dev.properties
+2022-01-15T18:50:13,439 [Test worker] INFO  (BaseTest.java:26) - Configuration exitosa.
+2022-01-15T18:53:31,264 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2022-01-15T18:53:49,986 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2022-01-15T18:53:53,586 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2022-01-15T18:57:04,218 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2022-01-15T18:57:04,567 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-dev.properties
+2022-01-15T18:57:04,595 [Test worker] INFO  (BaseTest.java:26) - Configuration exitosa.
+2022-01-15T18:57:22,768 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2022-01-15T18:57:23,113 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-dev.properties
+2022-01-15T18:57:23,141 [Test worker] INFO  (BaseTest.java:26) - Configuration exitosa.
+2022-01-15T18:58:16,288 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2022-01-15T18:58:16,643 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-dev.properties
+2022-01-15T18:58:16,680 [Test worker] INFO  (BaseTest.java:26) - Configuration exitosa.
+2022-01-15T19:30:37,224 [Test worker] INFO  (BaseTest.java:25) - Iniciando la configuracion
+2022-01-15T19:30:37,866 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-dev.properties
+2022-01-15T19:30:37,931 [Test worker] INFO  (BaseTest.java:27) - Configuration exitosa.
+2022-01-15T19:36:08,244 [Test worker] INFO  (BaseTest.java:25) - Iniciando la configuracion
+2022-01-15T19:36:09,014 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-dev.properties
+2022-01-15T19:36:09,087 [Test worker] INFO  (BaseTest.java:27) - Configuration exitosa.
+2022-01-15T19:42:43,735 [Test worker] INFO  (BaseTest.java:25) - Iniciando la configuracion
+2022-01-15T19:42:44,390 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-dev.properties
+2022-01-15T19:42:44,455 [Test worker] INFO  (BaseTest.java:27) - Configuration exitosa.
